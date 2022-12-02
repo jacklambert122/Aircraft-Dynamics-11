@@ -1,12 +1,12 @@
 # Feedback Control Design of 747 about Linearized Longitudinal Dynamics
 
-## Question 1 - True or False:
+<!-- ## Question 1 - True or False:
 
 <img src="./Images/TF1.jpg" /><br/>
 
 <img src="./Images/TF2.jpg" /><br/>
 
-<img src="./Images/TF3.jpg" /><br/>
+<img src="./Images/TF3.jpg" /><br/> -->
 
 
 ## Roll and Spiral Mode Approximations:
